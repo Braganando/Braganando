@@ -38,10 +38,6 @@ Sou um entusiasta da tecnologia com 44 anos, focado em construir uma carreira s�
 
 ## 🚀 Estatísticas do meu GitHub
 
-<## 🚀 Estatísticas do meu GitHub
-
-## 🚀 Estatísticas do meu GitHub
-
 <p align="center">
   
   <a href="https://github.com/Braganando">
