@@ -40,11 +40,17 @@ Sou um entusiasta da tecnologia com 44 anos, focado em construir uma carreira s�
 
 <## 🚀 Estatísticas do meu GitHub
 
+## 🚀 Estatísticas do meu GitHub
+
 <p align="center">
   
-  [![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Braganando&show_icons=true&theme=midnight&hide_border=true&count_private=true)](https://github.com/Braganando)
+  <a href="https://github.com/Braganando">
+    <img src="https://github-readme-stats.vercel.app/api?username=Braganando&show_icons=true&theme=midnight&hide_border=true&count_private=true" alt="Estatísticas do GitHub"/>
+  </a>
   
-  [![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Braganando&layout=compact&theme=midnight&hide_border=true)](https://github.com/Braganando)
+  <a href="https://github.com/Braganando">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Braganando&layout=compact&theme=midnight&hide_border=true" alt="Linguagens Mais Usadas"/>
+  </a>
   
 </p>
 
