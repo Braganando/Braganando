@@ -1,56 +1,56 @@
 # 🏃‍♂️ Fernando Braga
 
-**`Desenvolvedor de Software & Pesquisador em Biomecânica Computacional`**
+**`Fisioterapeuta & Desenvolvedor de Software`**
 
-### Graduando em TI (UNIVESP) | Especialista em Cybersecurity (Hackers do Bem) | Mobile Developer
+### Graduando em TI (UNIVESP) | Especialista em Biomecânica | Cybersecurity (Hackers do Bem)
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=Braganando&style=flat-square&color=blue" alt="Visualizações do Perfil"/>
 </p>
 
-Sou um desenvolvedor focado em soluções que geram impacto real, unindo **Inteligência Artificial**, **Gestão de Dados** e **Segurança**. Atualmente, lidero o projeto **Metrocinese**, focado em biomecânica de alta precisão. Minha expertise abrange desde o desenvolvimento de sistemas de gestão complexos com níveis de acesso até aplicações mobile (Android) e ferramentas de análise estatística.
+Sou um **Fisioterapeuta** em transição para o desenvolvimento de software, focado em unir o conhecimento clínico à **Inteligência Artificial** e **Visão Computacional**. Lidero o projeto **Metrocinese**, onde aplico algoritmos de análise cinética para democratizar a biomecânica de alta precisão. Minha stack une a expertise em saúde com o domínio de Python, Android e Segurança de Dados.
 
 ---
 
-## 🛠️ Stack Tecnológica & Áreas de Domínio
+## 🛠️ Stack Tecnológica & Domínio Clínico
 
 <table width="100%">
   <tr>
     <td width="33%" align="center">
-      <h4>Desenvolvimento & Mobile</h4>
+      <h4>Saúde Digital & IA</h4>
+      <img src="https://img.shields.io/badge/Fisioterapia-228B22?style=for-the-badge&logo=health&logoColor=white" alt="Fisioterapia"/>
+      <img src="https://img.shields.io/badge/MediaPipe-008080?style=for-the-badge&logo=google&logoColor=white" alt="MediaPipe"/>
       <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-      <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android"/>
-      <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit"/>
     </td>
     <td width="33%" align="center">
-      <h4>Dados & IA</h4>
+      <h4>Desenvolvimento & Mobile</h4>
+      <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android"/>
       <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/>
-      <img src="https://img.shields.io/badge/MediaPipe-008080?style=for-the-badge&logo=google&logoColor=white" alt="MediaPipe"/>
-      <img src="https://img.shields.io/badge/Estatística-1E90FF?style=for-the-badge&logo=dataiku&logoColor=white" alt="Estatística"/>
+      <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit"/>
     </td>
     <td width="33%" align="center">
       <h4>Cybersecurity & Infra</h4>
       <img src="https://img.shields.io/badge/Kali_Linux-000000?style=for-the-badge&logo=kali-linux&logoColor=white" alt="Kali"/>
-      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
       <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
+      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
     </td>
   </tr>
 </table>
 
 ---
 
-## ✨ Projetos em Destaque
+## ✨ Projetos Estratégicos
 
 | Projeto | Descrição | Status | Stack |
 | :--- | :--- | :--- | :--- |
-| **[Metrocinese](https://github.com/Braganando/Metrocinese)** | Análise biomecânica frontal e lateral via IA (RSI e Valgo Dinâmico). | **Pesquisa Ativa** | `MediaPipe`, `Python` |
-| **Estatística do Presbitério** | ERP completo com Login, CRUD, relatórios PDF e interpretação de dados. | Concluído | `Python`, `SQL`, `Desktop` |
-| **Legacy Invest** | Sistema de auditoria financeira e análise probabilística. | **Mobile & PC** | `Python`, `Android`, `SQL` |
-| **Controle de Apostilas** | Ferramenta web de fluxo administrativo e controle de materiais. | Concluído | `Python`, `Streamlit` |
+| **[Metrocinese](https://github.com/Braganando/Metrocinese)** | Análise biomecânica (RSI, Valgo e Simetria) via Visão Computacional. | **Pesquisa Ativa** | `Python`, `MediaPipe` |
+| **Estatística do Presbitério** | Sistema de gestão de dados com CRUD, relatórios PDF e níveis de acesso. | Concluído | `Python`, `SQL` |
+| **Legacy Invest** | Auditoria financeira e análise de mercado mobile e desktop. | **Mobile & PC** | `Python`, `Android` |
+| **Controle de Apostilas** | Gestão de fluxo administrativo web. | Concluído | `Streamlit` |
 
 ---
 
-## 📊 Estatísticas e Evolução
+## 📊 Performance e Engajamento
 
 <p align="center">
   <a href="https://github.com/Braganando">
@@ -63,11 +63,12 @@ Sou um desenvolvedor focado em soluções que geram impacto real, unindo **Intel
 
 ---
 
-## 🎓 Formação e Qualificações
-* **Graduação:** Bacharelado em Tecnologia da Informação (UNIVESP) - Prev. 2028.
-* **Técnico:** Redes de Computadores (CPET) | Manutenção de Computadores (SENAC).
-* **Cybersecurity:** Programa Hackers do Bem (Foco em Defensiva e Ofensiva).
-* **Idiomas:** Inglês C1 (Advanced) – Proficiente em documentação e comunicação global.
+## 🎓 Formação & Qualificações
+* **Graduação:** Fisioterapia (Bacharelado).
+* **Graduação:** Bacharelado em Tecnologia da Informação (UNIVESP) - Em curso.
+* **Técnico:** Redes de Computadores (CPET).
+* **Especialização:** Programa Hackers do Bem (Cibersegurança).
+* **Idiomas:** Inglês C1 (Advanced).
 
 ## 📧 Conecte-se Comigo
 
