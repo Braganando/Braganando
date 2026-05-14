@@ -64,7 +64,7 @@ Sou um **Fisioterapeuta** em transição para o desenvolvimento de software, foc
 ---
 
 ## 🎓 Formação & Qualificações
-* **Graduação:** Fisioterapia (Bacharelado).
+* **Graduação:** Fisioterapia (USP/RP).
 * **Graduação:** Bacharelado em Tecnologia da Informação (UNIVESP) - Em curso.
 * **Técnico:** Redes de Computadores (CPET).
 * **Especialização:** Programa Hackers do Bem (Cibersegurança).
